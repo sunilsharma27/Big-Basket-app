@@ -1,0 +1,40 @@
+.navbar
+{
+  background-image: linear-gradient(to right,black,rgb(1, 187, 1));
+}
+
+li
+{
+  padding: 10px;
+}
+div.home
+{
+    height: 550px;
+    background-size: cover;
+    background-Image: url("../assets/image/bg1.jpg")
+}
+#home
+{
+    color: white;
+}
+div h3
+{
+    color: green;
+}
+div.body p
+{
+    color: rgb(102, 101, 101);
+}
+#pd
+{
+    background-image: linear-gradient(to right,black,rgb(3, 206, 3));
+    color: white;
+    height: 35px;
+    width: 120px;
+    font-size: small;
+
+}
+
+.card:hover{
+    background-color: rgb(59, 131, 59);
+}
